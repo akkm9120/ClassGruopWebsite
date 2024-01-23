@@ -1,0 +1,14 @@
+#text1{
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 45%;
+    left: 50%;
+    
+  background-color: rgba(67, 66, 60, 0.758);
+  padding: 2em;
+}
+
+.bg-image{
+    background-image: url("imgs/chicken-7249271_1920.jpg");
+    background-size: cover;
+}
