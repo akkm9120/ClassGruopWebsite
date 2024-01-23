@@ -12,3 +12,8 @@
     background-image: url("imgs/chicken-7249271_1920.jpg");
     background-size: cover;
 }
+
+footer.text-center.text-lg-start.bg-body-gray-300.fw-bold.mt-3
+{
+  background-color:rgb(61,29,22);
+}
