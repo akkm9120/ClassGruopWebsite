@@ -17,3 +17,11 @@ footer.text-center.text-lg-start.bg-body-gray-300.fw-bold.mt-3
 {
   background-color:rgb(61,29,22);
 }
+
+.row.row-cols-3.col{
+  height: 350px;
+  border-radius: 54px;
+background: #e5b8b8;
+box-shadow:  7px 7px 17px #bc9797,
+             -7px -7px 17px #ffd9d9;
+}
