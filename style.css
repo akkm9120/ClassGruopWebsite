@@ -29,6 +29,12 @@ box-shadow:  7px 7px 17px #bc9797,
 #menuControl{
   max-width: 500px;
 padding: 25px;
-border: 1px solid rgb(0, 0, 0,0.3);
+border: 1px solid rgb(0, 0, 0,0.1);
 border-radius: 20px;
+}
+
+#menu{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
