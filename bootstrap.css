@@ -15,7 +15,7 @@
   --gray-dark: #343a40;
   --primary: #2C3E50;
   --secondary: #95a5a6;
-  --success: #409925;
+  --success: #57b93c;
   --info: #3498DB;
   --warning: #F39C12;
   --danger: #E74C3C;
@@ -1834,7 +1834,7 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #409925;
+  background-color: #2a7712;
   border-color: #409925; }
   .btn-success:hover {
     color: #fff;
