@@ -57,7 +57,7 @@ function renderFood(foods) {
                         document.querySelector("#txtFoodname").value = foods[i].name;
                         document.querySelector("#txtDescription").value =foods[i].description;
                         document.querySelector("#btnMenuAdd").style.display = 'none';
-                        document.querySelector("#menuControl").appendChild(document.createElement('BUTTON').innerHTML="Save");
+                        document.querySelector("#btnMenuUpdate").style.display= 'block';
                        let  editedItem = {
                        "index": food.index,
                        "foodname": foodname, 
